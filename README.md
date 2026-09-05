@@ -1,20 +1,7 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=160&section=header&text=DSA%20Journey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%208%20Weeks%20%7C%20Pattern-First&descAlignY=58&descSize=16" width="100%"/>
-
 <a href="https://github.com/shreyamumbale19-hub/dsa-journey">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=64748B&center=true&vCenter=true&width=500&lines=2-3+problems+per+day%2C+6+days+a+week;Depth+over+volume+%E2%80%94+patterns+over+grinding;Consistency+%3E+intensity" alt="typing animation" />
-
 </a>
-
 <br/>
-
-![Solved](https://img.shields.io/badge/Solved-0-22c55e?style=flat-square)
-
-![Streak](https://img.shields.io/badge/Streak-0%20days-f97316?style=flat-square)
-
-![Week](https://img.shields.io/badge/Week-1%20%2F%208-3b82f6?style=flat-square)
 
 </div>
 
@@ -98,7 +85,7 @@
 
 ## 📝 Notes
 
-Pattern breakdowns and "aha" moments → [notes/patterns-cheatsheet.md](./notes/patterns-cheatsheet.md)
+Pattern breakdowns and Key insights  → [notes/patterns-cheatsheet.md](./notes/patterns-cheatsheet.md)
 
 <br/>
 
