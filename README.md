@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=160&section=header&text=DSA%20Journey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%208%20Weeks%20%7C%20Pattern-First&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://github.com/shreyamumbale19-hub/DataStructure-Journey">
